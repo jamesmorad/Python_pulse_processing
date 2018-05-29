@@ -1,6 +1,6 @@
 This directory contains the PulseFinder_BlackBox code as developed by Sergey Uvarov at UC Davis for the LUX collaboration.
 
-The pulse finding algorithm is documented in his thesis (work in progress) and full details will be posted when made available.
+The pulse finding algorithm is documented in his thesis.
 
 To use this library in Python, you must first compile the shared object. Assuming a development environment is installed, you will
 also need the BOOST libraries as well as the BOOST Python libraries.
